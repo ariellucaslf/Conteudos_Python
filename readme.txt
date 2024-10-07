@@ -1,0 +1,1 @@
+Vou colocar alguns dos conteúdos que aprendi em python durante algumas aulas na faculdade, o arquivo está unificado no momento, mas pretendendo fraciona-lo para melhor oganização e vizualização.
